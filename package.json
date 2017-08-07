@@ -1,0 +1,8 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/enmai1988/tictactoe.git",
+  "author": "Eric Mai <enmai1988@gmail.com>",
+  "license": "MIT"
+}
